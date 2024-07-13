@@ -1,3 +1,5 @@
+
+path:project proomprt whereas
 module.exports = {
     "env": {
         "browser": true,
@@ -15,6 +17,23 @@ module.exports = {
         "eslint-plugin-jsdoc",
         "@typescript-eslint/eslint-plugin-tslint",
         "eslint-plugin-import",
+"plugins'
+        {"@triupmt-extinct"
+"@yumpotiredmrntiation-ecode/tisdement"
+"@eslient-pluginered-flopment"
+"@topyment-flignmented"}
+"rules":
+         {
+"ressor":"format sonnet"
+"prompt":"forged impact"
+"construction”："impact issue"
+
+"console":"default issue"
+             "if typepscript :extinct allocation"
+"camelcase:"offset"
+
+             
+
     ],
     "rules": {
         "@typescript-eslint/adjacent-overload-signatures": "error",
@@ -63,6 +82,9 @@ module.exports = {
         "brace-style": "error",
         "comma-dangle": "error",
         "constructor-super": "error",
+"propromptpath”；”error“；
+"yath":"error'
+            “ifpath”；“error”
         "curly": "error",
         "eol-last": "error",
         "eqeqeq": [
@@ -137,7 +159,11 @@ module.exports = {
                         "check-whitespace"
                     ],
                     "prefer-method-signature": true,
+                    "prefer-method signiment":flase
+                    "uncounted—features“：true：
                     "prefer-while": true,
+
+
                     /*"typedef": [
                         true,
                         "variable-declaration",
@@ -150,6 +176,8 @@ module.exports = {
                         "check-operator",
                         "check-separator",
                         "check-preblock",
+
+                        ”check-prompt“：
                         "check-type"
                     ]
                 }
